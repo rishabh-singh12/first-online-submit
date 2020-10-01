@@ -1,10 +1,10 @@
 #include <iostream> 
-#include <set> 
+#include <set>   
 #include <iterator> 
 
 using namespace std; 
 
-int main() 
+int main()  
 { 
 	// empty set container 
 	set <int, greater <int> > s1;		 
